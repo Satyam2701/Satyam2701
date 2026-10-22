@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Satyam Tiwari — Design it. Build it. Ship it.</title>
+  <desc id="desc">Experimental editorial banner in charcoal, electric lime, and cobalt blue.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#F1F0E8" stroke-opacity=".09" stroke-width="1"/></pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6C8CFF" stop-opacity=".55"/><stop offset="1" stop-color="#15171C" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="#15171C"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/><circle cx="1030" cy="100" r="250" fill="url(#glow)"/>
+  <g transform="translate(880 45)"><rect x="80" y="0" width="150" height="150" rx="12" fill="#B7FF5A" transform="rotate(14 155 75)"/><rect x="0" y="120" width="145" height="145" rx="10" fill="#6C8CFF" transform="rotate(-12 72 192)"/><circle cx="190" cy="230" r="50" fill="none" stroke="#F1F0E8" stroke-width="2" stroke-opacity=".7"/><path d="M165 230h50M190 205v50" stroke="#F1F0E8" stroke-width="2" stroke-opacity=".7"/></g>
+  <text x="64" y="64" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4" font-weight="700" fill="#B7FF5A">SATYAM TIWARI / INDEPENDENT BUILDER</text>
+  <text x="60" y="166" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="#F1F0E8">Design it.</text>
+  <text x="60" y="232" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="-2" fill="#F1F0E8">Build it. <tspan fill="#B7FF5A">Ship it.</tspan></text>
+  <text x="64" y="285" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#D2D4DA">Product design · AI workflows · Indie products</text>
+  <text x="64" y="326" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#8D929D">01 / DESIGN     02 / BUILD     03 / SHIP</text>
+</svg>
