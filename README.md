@@ -18,92 +18,7 @@ I design, prototype, and build thoughtful digital products | exploring the inter
 - **Build:** AI-assisted development, Claude Code skills, and design-to-code workflows.
 - **Ship:** Small apps, open-source experiments, and products that solve real problems.
 
-## 02 / Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Design Direction Skill](https://github.com/Satyam2701/design-direction-skill)
-
-A Claude Code skill for designers | turning vague ideas into a mood brief, concrete specification, and better feature thinking.
-
-**Focus:** AI for design · Product thinking · Claude Code
-
-</td>
-<td width="50%" valign="top">
-
-### [Aesthetic Widgets](https://github.com/Satyam2701/aesthetic-widgets)
-
-A UI-focused project exploring considered visual design and interface implementation.
-
-**Focus:** UI craft · Components · Interaction design
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Flowguard](https://github.com/Satyam2701/flowguard)
-
-A product experiment in my growing collection of tools and build explorations.
-
-**Focus:** Product experimentation · Software building
-
-</td>
-<td width="50%" valign="top">
-
-### [Chroma Color Picker](https://github.com/Satyam2701/chroma-color-picker)
-
-A small design utility exploring color selection and practical designer workflows.
-
-**Focus:** Design tools · Color · Usability
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Spec Overlay](https://github.com/Satyam2701/spec-overlay)
-
-An experiment in making design specifications and implementation workflows easier to work with.
-
-**Focus:** Design engineering · Handoff workflows
-
-</td>
-<td width="50%" valign="top">
-
-### [Boring Widget](https://apps.apple.com/gb/app/boring-widget/id6794598346)
-
-A shipped iOS app and part of my exploration into building useful, focused indie products.
-
-**Focus:** iOS · Product design · Indie making
-
-</td>
-</tr>
-</table>
-
-## 03 / GitHub activity
-
-<div align="center">
-
-### My contribution heatmap and activity
-
-The interactive contribution calendar and activity timeline are available directly on GitHub. Open my profile to explore daily contributions, monthly activity, commits, repositories, and pull requests.
-
-<a href="https://github.com/Satyam2701?tab=overview">
-  <img src="https://img.shields.io/badge/OPEN_INTERACTIVE_GITHUB_ACTIVITY-B7FF5A?style=for-the-badge&logo=github&logoColor=15171C&labelColor=15171C" alt="Open interactive GitHub activity" />
-</a>
-
-<p>
-  <a href="https://github.com/Satyam2701?tab=overview">View contribution calendar and activity on GitHub ↗</a>
-</p>
-
-</div>
-
-<sub>GitHub does not allow its native interactive contribution calendar to be embedded inside a profile README. The link above opens the real, interactive calendar and activity timeline instead of a static third-party image.</sub>
-
-## 04 / Tools & practice
+## 02 / Tools & practice
 
 **Design** | Product design · UX · UI systems · Accessibility · Prototyping
 
@@ -111,13 +26,13 @@ The interactive contribution calendar and activity timeline are available direct
 
 I learn by making: building useful things, documenting what I learn, and improving in public.
 
-## 05 / Currently
+## 03 / Currently
 
 - Improving tools and workflows for product designers.
 - Exploring how AI can support better product thinking and design execution.
 - Building small, thoughtful software experiences.
 
-## 06 / Let's connect
+## 04 / Let's connect
 
 Have an interesting product problem, an open-source idea, or a design-engineering collaboration in mind?
 
