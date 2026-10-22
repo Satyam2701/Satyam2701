@@ -87,32 +87,21 @@ A shipped iOS app and part of my exploration into building useful, focused indie
 
 <div align="center">
 
-### Contribution calendar
+### My contribution heatmap and activity
 
-<img src="https://ghchart.rshah.org/B7FF5A/Satyam2701" alt="GitHub contribution calendar for Satyam Tiwari" width="100%" />
+The interactive contribution calendar and activity timeline are available directly on GitHub. Open my profile to explore daily contributions, monthly activity, commits, repositories, and pull requests.
+
+<a href="https://github.com/Satyam2701?tab=overview">
+  <img src="https://img.shields.io/badge/OPEN_INTERACTIVE_GITHUB_ACTIVITY-B7FF5A?style=for-the-badge&logo=github&logoColor=15171C&labelColor=15171C" alt="Open interactive GitHub activity" />
+</a>
 
 <p>
-  <a href="https://github.com/Satyam2701?tab=overview">View full GitHub activity and contributions ↗</a>
+  <a href="https://github.com/Satyam2701?tab=overview">View contribution calendar and activity on GitHub ↗</a>
 </p>
-
----
-
-### Developer snapshot
-
-<a href="https://github.com/Satyam2701">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Satyam2701&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics for Satyam Tiwari" />
-</a>
-<a href="https://github.com/Satyam2701">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Satyam2701&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most-used languages in public repositories" />
-</a>
-
-<a href="https://github.com/Satyam2701">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Satyam2701&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</a>
 
 </div>
 
-<sub>Activity cards rely on third-party services and may occasionally be delayed. For the most reliable live view, use the GitHub activity link above.</sub>
+<sub>GitHub does not allow its native interactive contribution calendar to be embedded inside a profile README. The link above opens the real, interactive calendar and activity timeline instead of a static third-party image.</sub>
 
 ## 04 / Tools & practice
 
