@@ -40,6 +40,3 @@ Have an interesting product problem, an open-source idea, or a design-engineerin
 
 ---
 
-<div align="center">
-<sub>Designed with intent. Built with curiosity. Shipped in public.</sub>
-</div>
