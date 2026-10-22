@@ -12,13 +12,13 @@ I design, prototype, and build thoughtful digital products | exploring the inter
 
 ---
 
-## 01 / What I'm exploring
+## What I'm exploring
 
 - **Design:** Product thinking, interaction design, accessibility, and useful interface tools.
 - **Build:** AI-assisted development, Claude Code skills, and design-to-code workflows.
 - **Ship:** Small apps, open-source experiments, and products that solve real problems.
 
-## 02 / Tools & practice
+## Tools & practice
 
 **Design** | Product design · UX · UI systems · Accessibility · Prototyping
 
@@ -26,13 +26,13 @@ I design, prototype, and build thoughtful digital products | exploring the inter
 
 I learn by making: building useful things, documenting what I learn, and improving in public.
 
-## 03 / Currently
+## Currently
 
 - Improving tools and workflows for product designers.
 - Exploring how AI can support better product thinking and design execution.
 - Building small, thoughtful software experiences.
 
-## 04 / Let's connect
+## Let's connect
 
 Have an interesting product problem, an open-source idea, or a design-engineering collaboration in mind?
 
